@@ -1,0 +1,21 @@
+1. ¿ Cuales son los nombres de los 10 clientes que solicitaron mayor cantidad de contratos de monitoreo en el mes de enero de 2024?
+
+2. ¿Cual fue el tipo de monitoreo más solicitado en el mes de enero 2024?
+
+3. ¿Qué tipo de monitoreo generó mayor facturación a la empresa en el mes de enero de 2024?
+
+4. ¿Cuántos son los montos mínimos y máximos de los contratos  de monitoreo de agua, suelo y aire en enero de 2024?
+
+5. ¿Cuál es el nombre empleado que realizó más muestreos en el mes de enero de 2024?
+
+6. ¿Cuáles son los nombres de los empleados que analizaron más muestras en el mes de enero de 2024?
+
+7. ¿Qué duración promedio tienen los monitoreos de agua solicitados en enero de 2024?
+
+8.¿Cuántos empleados activos tuvo la empresa en enero de 2024?
+
+9. ¿ Cuales son los nombres de los clientes que solicitaron el monitoreo del agua en el mes de enero 2024?
+
+10. ¿Cuál es el ubigeo de los monitoreos realizados en enero de 2024?
+
+

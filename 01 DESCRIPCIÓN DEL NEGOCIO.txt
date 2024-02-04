@@ -1,0 +1,8 @@
+Empresa de Monitoreo Ambiental, que brinda servicios de muestreo y analisis de suelo, aire y agua. 
+
+Los clientes o empresas que necesitan conocer los parametros ambientales permitidos del suelo, aire y agua de sus áreas de operación, solicitan a la empresa el monitoreo que requieren.
+
+Cuando el cliente solicita el servicio de monitoreo, se genera un contrato donde se indica el tipo de monitoreo que se debe realizar, la ubicación, la fecha y otros detalles a tomar en consideración.
+
+Las principales actividades de la empresa son: Toma de muestra en campo, Analisis de la muestra y Entrega de resultados al cliente.
+
